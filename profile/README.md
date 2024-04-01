@@ -13,5 +13,5 @@ _MSIGHT_ is the built-in open BIM viewer designed to help users better understan
 
 _MSCOPE_ is the embedded shared data environment of the MS platform. This is where users can store information containers and effectively keep track of all documents per the standards set out by ISO 19650.
 
-- Website: [https://example.com](https://prod.ms4aeco)
+- [Website](https://prod.ms4aeco)
 
