@@ -11,7 +11,7 @@ _MSCOPE_ is designed to help manage macro projects. This tool has a customizable
 
 _MSIGHT_ is the built-in open BIM viewer designed to help users better understand and interact with tridimensional models.
 
-_MSCOPE_ is the embedded shared data environment of the MS platform. This is where users can store information containers and effectively keep track of all documents per the standards set out by ISO 19650.
+_MSOURCE_ is the embedded shared data environment of the MS platform. This is where users can store information containers and effectively keep track of all documents per the standards set out by ISO 19650.
 
 > [Website](https://www.ms4aeco.com)
 
